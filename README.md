@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Airflow](https://github.com/mukherjeeruben/Airflow-App)
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering** 🐍
 
 - 👨‍💻 All of my projects are available at [https://ruben-mukherjee.up.railway.app/](https://ruben-mukherjee.up.railway.app/)
 
