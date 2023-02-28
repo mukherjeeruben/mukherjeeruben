@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Engineering** 🐍
 
-- 👨‍💻 All of my projects are available at [https://ruben-mukherjee.up.railway.app/](https://ruben-mukherjee.up.railway.app/)
+- 👨‍💻 All of my projects are available at [https://ruben-mukherjee.vercel.app](https://ruben-mukherjee.vercel.app)
 
 - 📫 How to reach me **rubenmukherjee@outlook.com**
 
