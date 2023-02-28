@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukherjeeruben&label=Profile%20views&color=0e75b6&style=flat" alt="mukherjeeruben" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukherjeeruben" alt="mukherjeeruben" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukherjeeruben" alt="mukherjeeruben" /></a> </p> -->
 
 - 🔭 I’m currently working on [Airflow](https://github.com/mukherjeeruben/Airflow-App)
 
