@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rubenmukherjee@outlook.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/mukherjeeruben/alhpa-drop/main/assets/Ruben_Mukherjee_CV.pdf](https://raw.githubusercontent.com/mukherjeeruben/alhpa-drop/main/assets/Ruben_Mukherjee_CV.pdf)
+- 📄 Know about my experiences [CV](https://raw.githubusercontent.com/mukherjeeruben/alhpa-drop/main/assets/Ruben_Mukherjee_CV.pdf)
 
 - ⚡ Fun fact **Ask me about airplanes**
 
