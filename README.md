@@ -4,9 +4,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukherjeeruben" alt="mukherjeeruben" /></a> </p> -->
 
-- 🔭 I’m currently working on [Airflow](https://github.com/mukherjeeruben/Airflow-App)
+- 🔭 I’m currently working on [CNN](https://www.tensorflow.org/tutorials/images/cnn)
 
-- 🌱 I’m currently learning **Data Engineering** 🐍
+- 🌱 I’m currently learning **Neural Networks** 🐍
+- 
+- 🌱 Expert in **Data Engineering and Web Development** 🐍
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ruben-mukherjee.vercel.app)
 
